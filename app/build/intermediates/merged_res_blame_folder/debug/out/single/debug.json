@@ -16,8 +16,16 @@
         "source": "/Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/res/menu/login.xml"
     },
     {
+        "merged": "/Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/build/intermediates/res/merged/debug/layout_activity_timeline.xml.flat",
+        "source": "/Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/res/layout/activity_timeline.xml"
+    },
+    {
         "merged": "/Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
         "source": "/Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/build/intermediates/res/merged/debug/layout_item_tweet.xml.flat",
+        "source": "/Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/res/layout/item_tweet.xml"
     },
     {
         "merged": "/Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
