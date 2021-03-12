@@ -11,7 +11,12 @@ com/codepath/apps/restclienttemplate/models/SampleModelDao.java
  com.codepath.apps.restclienttemplate.models.SampleModelDao
 com/codepath/apps/restclienttemplate/TimelineActivity.java
  com.codepath.apps.restclienttemplate.TimelineActivity
-com/codepath/apps/restclienttemplate/TwitterApp.java
- com.codepath.apps.restclienttemplate.TwitterApp
+ com.codepath.apps.restclienttemplate.TimelineActivity$1
 com/codepath/apps/restclienttemplate/TwitterClient.java
  com.codepath.apps.restclienttemplate.TwitterClient
+com/codepath/apps/restclienttemplate/TwitterApp.java
+ com.codepath.apps.restclienttemplate.TwitterApp
+com/codepath/apps/restclienttemplate/models/User.java
+ com.codepath.apps.restclienttemplate.models.User
+com/codepath/apps/restclienttemplate/models/Tweet.java
+ com.codepath.apps.restclienttemplate.models.Tweet
