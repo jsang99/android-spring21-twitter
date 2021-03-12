@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/android-spring21-twitter.iml" filepath="$PROJECT_DIR$/.idea/android-spring21-twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-spring21-twitter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-spring21-twitter.app.iml" />
     </modules>
   </component>
 </project>
