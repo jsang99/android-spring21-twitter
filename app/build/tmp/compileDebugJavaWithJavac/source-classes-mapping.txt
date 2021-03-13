@@ -4,6 +4,8 @@ com/codepath/apps/restclienttemplate/models/TweetsAdapter.java
 com/codepath/apps/restclienttemplate/LoginActivity.java
  com.codepath.apps.restclienttemplate.LoginActivity
  com.codepath.apps.restclienttemplate.LoginActivity$1
+com/codepath/apps/restclienttemplate/TimeFormatter.java
+ com.codepath.apps.restclienttemplate.TimeFormatter
 com/codepath/apps/restclienttemplate/models/SampleModel.java
  com.codepath.apps.restclienttemplate.models.SampleModel
 com/codepath/apps/restclienttemplate/BuildConfig.java
