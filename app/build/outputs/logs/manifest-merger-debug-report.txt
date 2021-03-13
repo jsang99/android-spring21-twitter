@@ -13,6 +13,7 @@ MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kevinjiyansang/.gr
 MERGED from [androidx.room:room-runtime:2.2.5] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/95f0ce6fe72fcb68ec6fceedc8417c44/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/a8cd5bb16e1985c23bcb26fcb2542d8c/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/0f1b91cab8c81924173cb852482c514c/jetified-stetho-1.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/259d6ac788dc5ebe081349befc6dd85e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/b147960076261e4174c567af8fb57f05/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -30,12 +31,12 @@ MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/kevinjiyansang/.gradle/caches/
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/5e93b9f41c3983a761aa6e19533f24ec/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/1435e0b5216c3fd72a2d6579c29d3ee1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/660b4d74cde65c33eec276f2ecc73906/core-runtime-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/a5508913c832bc0c65ebd72baf7fb6d8/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/384d88a73e203b8300027f46f36e4e61/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
 INJECTED from /Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/AndroidManifest.xml:2:1-39:12
@@ -155,6 +156,8 @@ MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/kevinjiyansang/.gr
 MERGED from [com.facebook.stetho:stetho-okhttp3:1.5.1] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/a8cd5bb16e1985c23bcb26fcb2542d8c/jetified-stetho-okhttp3-1.5.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/0f1b91cab8c81924173cb852482c514c/jetified-stetho-1.5.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.stetho:stetho:1.5.1] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/0f1b91cab8c81924173cb852482c514c/jetified-stetho-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/f9976ae113f170d60bfcc789044f411d/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/259d6ac788dc5ebe081349befc6dd85e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/259d6ac788dc5ebe081349befc6dd85e/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/b147960076261e4174c567af8fb57f05/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
@@ -189,6 +192,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinjiyan
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/1435e0b5216c3fd72a2d6579c29d3ee1/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/660b4d74cde65c33eec276f2ecc73906/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/660b4d74cde65c33eec276f2ecc73906/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/082141e7a08ecc0568dc277abb6b2eb2/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/1b49f6b12087442447a2c9046372b97f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -199,8 +204,6 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinjiyansang
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/384d88a73e203b8300027f46f36e4e61/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/ac846bd1991b3727d0d9b0a2719ca5c8/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinjiyansang/.gradle/caches/transforms-2/files-2.1/054d779a91766207571d826869795163/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 INJECTED from /Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/AndroidManifest.xml
 INJECTED from /Users/kevinjiyansang/AndroidStudioProjects/android-spring21-twitter/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

@@ -1044,6 +1044,7 @@ id staticPostLayout
 id stop
 id submenuarrow
 id submit_area
+id swipeContainer
 id tabMode
 id tag_accessibility_actions
 id tag_accessibility_clickable_spans

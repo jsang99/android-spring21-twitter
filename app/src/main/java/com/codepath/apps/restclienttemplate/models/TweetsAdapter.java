@@ -25,7 +25,6 @@ public class TweetsAdapter extends RecyclerView.Adapter<TweetsAdapter.ViewHolder
     public TweetsAdapter(Context context, List<Tweet> tweets) {
         this.context = context;
         this.tweets = tweets;
-
     }
 
     // for each row, inflate a layout
@@ -42,14 +41,23 @@ public class TweetsAdapter extends RecyclerView.Adapter<TweetsAdapter.ViewHolder
         Tweet tweet = tweets.get(position);
         // bind the tweet within the view holder
         holder.bind(tweet);
-
     }
 
     @Override
     public int getItemCount() {
         return tweets.size();
     }
+    // Clean all elements of the recycler
 
+    public void clear(){
+        tweets.clear();
+        notifyDataSetChanged();
+    }
+    // add a list of items
+    public void addAll(List<Tweet> tweetList) {
+        tweets.addAll(tweetList);
+        notifyDataSetChanged();
+    }
 
 
     // bind values based on the position of the element
@@ -73,8 +81,6 @@ public class TweetsAdapter extends RecyclerView.Adapter<TweetsAdapter.ViewHolder
             tvBody.setText(tweet.body);
             tvScreenName.setText(tweet.user.screenName);
             Glide.with(context).load(tweet.user.profileImageUrl).into(ivProfileImage);
-            
-
         }
     }
 

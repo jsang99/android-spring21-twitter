@@ -19,6 +19,7 @@ com/codepath/apps/restclienttemplate/models/Tweet.java
 com/codepath/apps/restclienttemplate/TimelineActivity.java
  com.codepath.apps.restclienttemplate.TimelineActivity
  com.codepath.apps.restclienttemplate.TimelineActivity$1
+ com.codepath.apps.restclienttemplate.TimelineActivity$2
 com/codepath/apps/restclienttemplate/TwitterClient.java
  com.codepath.apps.restclienttemplate.TwitterClient
 com/codepath/apps/restclienttemplate/TwitterApp.java
